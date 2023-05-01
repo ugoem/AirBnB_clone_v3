@@ -71,4 +71,4 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
 # More Info
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/02078cd7f0573885c85a225c7436584a5afea1f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230501T144113Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=150a3b8feb855b42918afe24c44ae7d1ab64be23be2334ce9224792779d68c63)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/02078cd7f0573885c85a225c7436584a5afea1f9.png)
